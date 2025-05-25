@@ -14,4 +14,5 @@ AutoTicket - Это плагин для FunPay Cardinal, который отпр
 с помощью второй отправить запросы
 
 Меню настройки:
+
 ![image](https://github.com/user-attachments/assets/72774e71-871d-4cd5-92a6-4fcf790d0cba)
